@@ -44,7 +44,7 @@ backend/
 
 ---
 
-## 📄 File-by-File Explanation
+## File Explanation
 
 ---
 
@@ -172,3 +172,4 @@ Provides a template for required environment variables.
 ```bash
 npm install
 node src/server.js
+
